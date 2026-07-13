@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Hallucination 검증-t
-=======
-# Hallucination 검증-test222
->>>>>>> b2bd78e (Retest)
+# Hallucination 검증-test
 
 # 1. 프롬프트 입력
 
