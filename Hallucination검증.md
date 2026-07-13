@@ -1,4 +1,4 @@
-# Hallucination 검증-t
+# Hallucination 검증
 
 # 1. 프롬프트 입력
 
